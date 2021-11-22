@@ -1,6 +1,8 @@
 # Zoonomia
 Scripts used in the analysis of the 241-mammal Zoonomia dataset for the upcoming publication: "Evolutionary constraint and innovation across hundreds of placental mammals" UNDER REVIEW
 
+These scripts and data files are provided with the main purpose of reproducibility of the analyses presented in the paper. Any questions regarding the content and use of this repository should be directed to matthew dot christmas aT imbim dot uu dot se
+
 # Estimating genome-wide constraint:
 https://github.com/MattChristmas/Zoonomia/blob/3e6e0665e5e7deb9e13c1c5848f50cb425037b26/calculate_genome_constraint_fraction.R
 
