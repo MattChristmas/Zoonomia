@@ -4,7 +4,7 @@ Scripts used in the analysis of the 241-mammal Zoonomia dataset for the upcoming
 # Estimating genome-wide constraint: calculate_genome_constraint_fraction.R
 This script provides an example of how we calculated a lower-bound estimate of the proportion of the genome under purifying selection based on phyloP values, for human, chimpanzee, house mouse, dog and bat
 
-# Constraint at four-fold degenerate sites
+# Constraint at four-fold degenerate sites: https://github.com/MattChristmas/Zoonomia/blob/a7353d2271d4e346f83ccd2c3369783d131d267b/4d_sites_constraint.R
 This script was used to analyse constraint at 4-fold degenerate sites and their overlap with transcription factor binding sites
 
 # 100kb bins constraint analysis
