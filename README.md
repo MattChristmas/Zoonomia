@@ -15,16 +15,24 @@ This script was used to analyse constraint at 4-fold degenerate sites and their 
 
 # 100kb bins constraint analysis
 https://github.com/MattChristmas/Zoonomia/blob/02b026d082ebbe03a59388c6b8b38bcadb90a672/100kb_bin_constraint_analysis.R
+
 This script was used to analyse supplementary data file 2, for measuring constraint across the human genome in 100 kb bins
 
 # Gene desert analysis
 https://github.com/MattChristmas/Zoonomia/blob/02b026d082ebbe03a59388c6b8b38bcadb90a672/Gene_deserts_constraint_analysis.R
+
 This script was used for analysing constraint in gene deserts and relating this to the location of gene deserts near developmental transcription factors
 
 # UNICORNs
 https://github.com/MattChristmas/Zoonomia/blob/ce35c2eee7eda1a2dff15580abed8741d0fc6e44/UNICORN_analysis.R
+
 This script was used for analysing features of UNICORNs, in particular for showing they contain less variation with lower allele frequencies than other unannotated intergenic regions
+
+https://github.com/MattChristmas/Zoonomia/blob/main/getUnicornOverlapsWithBrainDatasets.sh
+
+This script was used for evaluating the overlap of UNICORNs with open chromatin regions from different brain regions, different motor cortex cell types, and different brain developmental stages
 
 # Constraint in repeats
 https://github.com/MattChristmas/Zoonomia/blob/ce35c2eee7eda1a2dff15580abed8741d0fc6e44/repeats_constraint_analysis.R
+
 This script was for analysing the distribution of constraint across human repeat families
