@@ -35,4 +35,9 @@ This script was used for evaluating the overlap of UNICORNs with open chromatin 
 # Constraint in repeats
 https://github.com/MattChristmas/Zoonomia/blob/ce35c2eee7eda1a2dff15580abed8741d0fc6e44/repeats_constraint_analysis.R
 
-This script was for analysing the distribution of constraint across human repeat families
+This script was used for analysing the distribution of constraint across human repeat families
+
+# Olfaction evolution
+https://github.com/MattChristmas/Zoonomia/blob/main/extract_OR_hits.pl
+
+This script was used to extract regions of the genome containing putative olfactory receptor sequences identified using tblastx
