@@ -41,3 +41,9 @@ This script was used for analysing the distribution of constraint across human r
 https://github.com/MattChristmas/Zoonomia/blob/main/extract_OR_hits.pl
 
 This script was used to extract regions of the genome containing putative olfactory receptor sequences identified using tblastx
+
+# CMAH gene loss
+
+```cds_coverage.py``` was used after ```bedtools coverage``` in the short read alignment based gene loss step. It iterates over coverage files and makes a human-readable tabulated file. 
+
+```gaps_exonerate.py``` summarizes where gaps are located in the GFF output from exonerate.
