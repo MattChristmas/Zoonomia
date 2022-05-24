@@ -47,3 +47,7 @@ This script was used to extract regions of the genome containing putative olfact
 ```cds_coverage.py``` was used after ```bedtools coverage``` in the short read alignment based gene loss step. It iterates over coverage files and makes a human-readable tabulated file. 
 
 ```gaps_exonerate.py``` summarizes where gaps are located in the GFF output from exonerate.
+
+# Hibernation
+https://github.com/MattChristmas/Zoonomia/blob/main/hibernationCodeAll.R
+This script was used for the hibernation RERconverge analyses.
